@@ -1,2 +1,0 @@
-# Electromech
-sorce code
